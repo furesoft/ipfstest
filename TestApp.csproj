@@ -8,7 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="OwlCore.Kubo" Version="0.9.7" />
+      <PackageReference Include="Ipfs.Engine" Version="0.13.0" />
     </ItemGroup>
 
 </Project>
